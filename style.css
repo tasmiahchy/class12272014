@@ -1,7 +1,25 @@
 #uniqueName{
-	color: red;
+	color: purple;
+	background-color: orange;
 }
 
 #monkey{
 	color: green;
+	background-color: yellow;
+}
+#teacher{
+	color: white;
+	background-color: blue;
+}
+#slacker{
+	color:red;
+	background-color: black
+}
+#hey{
+	background-color: pink
+}
+
+#one{
+	color: rgb(221, 25, 144);
+background-color: rgb(23, 190, 95); 
 }
